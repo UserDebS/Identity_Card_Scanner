@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654911499931",
+    "project_id": "one-fa",
+    "storage_bucket": "one-fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654911499931:android:8cc1f3f6ad976d01b6203e",
+        "android_client_info": {
+          "package_name": "com.example.one_fa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh1TET53WqbvuEwKF7ExjSHi1Yd3RyMNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
