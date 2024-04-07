@@ -11,7 +11,7 @@ Future<void> main() async {
   await Supabase.initialize(
       url: 'https://nqwfsecktfvltnbpyesa.supabase.co',
       anonKey:
-          'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5xd2ZzZWNrdGZ2bHRuYnB5ZXNhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDgxNTUwNTMsImV4cCI6MjAyMzczMTA1M30.k4su1deYxuXIRPc237zNvJZgDCUPJdXV96eLmEqbPYI');
+          'eyJhbGciOiJIUzI1NiIsInR5cCI6ICJ9.eyJpc3MiOiJzdXBhYmFInJlZiI6Im5xd2ZzZWNrdcm9sZSI6ImFub24iLCJpYXQiOjE3MDgxsjAyMzczMTA1M30.k4su1deYxuXIRPc237zNvJZgDCLmE');
   runApp(const OFA());
 }
 
