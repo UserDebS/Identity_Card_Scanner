@@ -178,7 +178,7 @@ class querySystem {
       required String body}) async {
     print('Sending email to $email');
     String username = 'solutionfordocs91@gmail.com';
-    String password = 'ijcxqthldcevstbi';
+    String password = '************';
 
     final smtpServer = gmail(username, password);
     final message = Message()
